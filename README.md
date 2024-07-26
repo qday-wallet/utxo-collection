@@ -7,5 +7,5 @@ Try running some of the following tasks:
 ```shell
 npx hardhat help
 npx hardhat test
- npx hardhat ignition deploy ./ignition/modules/UTXOSimulator.ts --network qday
+npx hardhat ignition deploy ./ignition/modules/UTXOSimulator.ts --network qday
 ```
