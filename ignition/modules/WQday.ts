@@ -1,7 +1,7 @@
 import { buildModule } from "@nomicfoundation/hardhat-ignition/modules";
 
 
-//WQdayModule#WQday - 0xc7090F5ACEdf4ea5334D27E1C267816cb729091A
+//WQdayModule#WQday - 0x039198230f586B5c510733753E14C996735Ea85d
 const WQdayModule = buildModule("WQdayModule", (m) => {
   const name = "pqusd"
   const symbol = "pqusd"
