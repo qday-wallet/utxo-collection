@@ -16,7 +16,7 @@ const config: HardhatUserConfig = {
   solidity: "0.8.24",
   networks: {
     qday: {
-      url: "http://159.138.82.123:8123",
+      url: "https://devnet-rpc.qday.ninja",
       accounts: [privateKey || ""],
       chainId: 1001,
     },
